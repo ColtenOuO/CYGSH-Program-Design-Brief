@@ -8,7 +8,11 @@
 
 ## Chapter 1 Introduction to C++ Programming Language
 
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Chapter%201..pdf
+
 ## Chapter 2. Data Type, Variable and IO 
+
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Chapter%201..pdf
 
 ### Practice
 - https://zerojudge.tw/ShowProblem?problemid=a001
@@ -17,6 +21,8 @@
 - https://zerojudge.tw/ShowProblem?problemid=d827
 
 ## Chapter 3. Operator and Bitwise, if statement
+
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Chapter%201..pdf
 
 **加入 Group: https://codeforces.com/group/H0qY3QmnOW**
 
