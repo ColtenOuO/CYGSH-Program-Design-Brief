@@ -1,13 +1,12 @@
-# CYGSH-Program-Design-Brief
-CYGSH-Program-Design-Brief
+# 嘉義女中數理資優班獨立研究課程 CYGSH Program Design Course
 
-## Before Start
+## Chapter 0. Before Start
 
 - 環境變數：打開 cmd 檢查 g++ 版本，輸入 g++ --version
 - 如果找不到這一個指令請去下載：https://jmeubank.github.io/tdm-gcc/
 - 或是直接選一個自己喜歡的 IDE (整合開發環境)：Dev-Cpp、CodeBloacks
 
-## Chapter 1 Introduction C++ Language
+## Chapter 1 Introduction to C++ Programming Language
 
 ## Chapter 2. Data Type, Variable and IO 
 
