@@ -35,6 +35,8 @@
 
 ## Chapter 4. if statement and Loop
 
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Chapter%201..pdf
+
 - https://toj.tfcis.org/oj/pro/104/
 - https://toj.tfcis.org/oj/pro/110/
 - https://zerojudge.tw/ShowProblem?problemid=a058
