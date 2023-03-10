@@ -34,3 +34,8 @@
 - **https://codeforces.com/group/H0qY3QmnOW/contest/412932/problem/A (難題)**
 
 ## Chapter 4. if statement and Loop
+
+- https://toj.tfcis.org/oj/pro/104/
+- https://toj.tfcis.org/oj/pro/110/
+- https://zerojudge.tw/ShowProblem?problemid=a058
+- https://codeforces.com/group/H0qY3QmnOW/contest/320147/problem/B
