@@ -41,3 +41,7 @@
 - https://toj.tfcis.org/oj/pro/110/
 - https://zerojudge.tw/ShowProblem?problemid=a058
 - https://codeforces.com/group/H0qY3QmnOW/contest/320147/problem/B
+
+## Chapter 5. arrays
+
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/arrays.md
