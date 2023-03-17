@@ -45,3 +45,11 @@
 ## Chapter 5. arrays
 
 ### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/arrays.md
+
+### Practice：
+
+#### 使用 TOJ 記得最後一定要換行
+
+- https://toj.tfcis.org/oj/pro/112/
+- https://toj.tfcis.org/oj/pro/113/
+- https://toj.tfcis.org/oj/pro/114/
