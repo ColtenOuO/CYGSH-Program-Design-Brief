@@ -53,3 +53,15 @@
 - https://toj.tfcis.org/oj/pro/112/
 - https://toj.tfcis.org/oj/pro/113/
 - https://toj.tfcis.org/oj/pro/114/
+
+## 0331 Practice.
+
+#### 使用 TOJ 記得最後一定要換行
+
+- https://toj.tfcis.org/oj/pro/115/
+- https://atcoder.jp/contests/abc101/tasks/abc101_b
+- https://atcoder.jp/contests/abc206/tasks/abc206_b
+- https://atcoder.jp/contests/abc115/tasks/abc115_b
+- https://atcoder.jp/contests/abc112/tasks/abc112_b
+
+
