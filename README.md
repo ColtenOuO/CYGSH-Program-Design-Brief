@@ -69,4 +69,8 @@
 
 預習新的簡報就可以了 :D
 
+## Chapter 6. Array Review and String
+
+
+
 
