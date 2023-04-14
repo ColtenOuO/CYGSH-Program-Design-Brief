@@ -71,6 +71,8 @@
 
 ## Chapter 6. Array Review and String
 
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Chapter%202.%20%20%E5%9F%BA%E7%A4%8E%20C%2B%2B%20%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E5%B0%8E%E8%AB%96%20II%20Introduction%20to%20Basic%20C%2B%2B%20Program%20Design%20II.pdf
+
 
 
 
