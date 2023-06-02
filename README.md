@@ -75,6 +75,8 @@
 
 ## Chapter 7. Sorting and Searching I
 
+### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Lesson%203%20%E6%8E%92%E5%BA%8F%E8%88%87%E6%90%9C%E5%B0%8B%20I.pdf
+
 ## Project - 自動化批改程式
 
 ### 內容描述
