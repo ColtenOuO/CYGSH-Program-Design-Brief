@@ -73,6 +73,14 @@
 
 ### 講義：https://github.com/ColtenOuO/CYGSH-Program-Design-Course/blob/main/Chapter%202.%20%20%E5%9F%BA%E7%A4%8E%20C%2B%2B%20%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88%E5%B0%8E%E8%AB%96%20II%20Introduction%20to%20Basic%20C%2B%2B%20Program%20Design%20II.pdf
 
+## Chapter 7. Sorting and Searching I
+
+## Project - 自動化批改程式
+
+### 內容描述
+
+透過檔案輸入學生資料 (姓名、學號、編號)，以及學生每一題的答案，接下來將題目的正確答案輸入到檔案中，透過程式計算出每一位學生的分數 (支援多選題)
+
 
 
 
