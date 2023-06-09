@@ -83,6 +83,10 @@
 
 透過檔案輸入學生資料 (姓名、學號、編號)，以及學生每一題的答案，接下來將題目的正確答案輸入到檔案中，透過程式計算出每一位學生的分數 (支援多選題)
 
+## Chapter 8. Sorting、Function & Recursion
+
+## Chapter 9. The Last Dance!
+
 
 
 
